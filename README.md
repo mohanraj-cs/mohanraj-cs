@@ -4,7 +4,7 @@
 </em></p>
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Mohan%20Raj-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/mohanr7/)](https://www.linkedin.com/in/mohanr7/) [![Twitter Badge](http://img.shields.io/badge/-@ashleymavericks-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/ashlyemavericks)](https://twitter.com/ashlyemavericks) [![Medium Badge](http://img.shields.io/badge/-@ashleymavericks-1ca0f1?style=social&logo=Medium&logoColor=black&link=https://medium.com/@ashleymavericks)](https://medium.com/@ashleymavericks) [![GitHub followers](https://img.shields.io/github/followers/ashleymavericks?label=Follow&style=social)](https://github.com/ashleymavericks/?tab=follow) [![Gmail Badge](https://img.shields.io/badge/-singhanurag024-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:mohanraj746007@gmail.com)](mailto:mohanraj746007@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-Mohan%20Raj-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/mohanr7/)](https://www.linkedin.com/in/mohanr7/) [![Twitter Badge](http://img.shields.io/badge/-@mohanraj-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/mohanraj746007)](https://twitter.com/mohanraj746007) [![GitHub followers](https://img.shields.io/github/followers/Mohanrajny?label=Follow&style=social)](https://github.com/Mohanrajny/?tab=follow) [![Gmail Badge](https://img.shields.io/badge/-mohanrajc45-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:mohanrajc45@gmail.com)](mailto:mohanrajc45@gmail.com) 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
