@@ -6,7 +6,6 @@
 
 - 🏢 Software Engineer working on distributed data platforms, identity provisioning, and AI-powered product experiences.
 - 🤖 Focused on **AI platform engineering**: LLM orchestration, agentic workflows, RAG, on-device inference, and tool-calling with MCP.
-- 🎓 M.S. in Computer Science (AI specialization), Santa Clara University.
 - ⚡ Fun fact: huge Iron Man fan, and I love to travel.
 
 ## Tech Stack
@@ -53,7 +52,3 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
----
-
-<em><b>Always happy to connect.</b> Reach out via <a href="https://www.linkedin.com/in/mohanraj-chandrasekar/">LinkedIn</a> or my <a href="https://mohanrajc.dev">portfolio</a>.</em>
