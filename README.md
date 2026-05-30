@@ -2,10 +2,6 @@
 
 <p><em>Software Engineer building distributed systems and AI platforms at scale.</em></p>
 
-[![Portfolio](https://img.shields.io/badge/-mohanrajc.dev-0f1b61?style=social&logo=google-chrome&logoColor=4169E1)](https://mohanrajc.dev)
-[![LinkedIn Badge](https://img.shields.io/badge/-Mohan%20Raj-blue?style=social&logo=Linkedin&logoColor=blue)](https://www.linkedin.com/in/mohanraj-chandrasekar/)
-[![GitHub followers](https://img.shields.io/github/followers/mohanraj-cs?label=Follow&style=social)](https://github.com/mohanraj-cs?tab=followers)
-
 ### A little about me
 
 - 🏢 Software Engineer working on distributed data platforms, identity provisioning, and AI-powered product experiences.
